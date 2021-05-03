@@ -1,0 +1,2 @@
+This is a story.
+And this is going to be first commit in master/main branch!
